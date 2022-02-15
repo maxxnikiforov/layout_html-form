@@ -1,1 +1,13 @@
-/* styles go here */
+.input__field {
+  display: block;
+  margin: 10px;
+}
+
+.form__box {
+  border: 1px solid black;
+  margin-bottom: 20px;
+}
+
+.l {
+  margin: 0 10px;
+}
