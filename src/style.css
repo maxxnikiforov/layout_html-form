@@ -4,10 +4,9 @@
 }
 
 .form__box {
-  border: 1px solid black;
   margin-bottom: 20px;
 }
 
-.l {
-  margin: 0 10px;
+.form__box :last-child {
+  margin: 0;
 }
